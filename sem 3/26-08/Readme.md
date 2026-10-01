@@ -1,11 +1,11 @@
 # QSpider Python Notes
 
-## 26-08-2026
+## 26-08-2025
 
 
 # Assignment
 
-## Date: 26-08-2026
+## Date: 26-08-2025
 
 The placement-cell assignment for this session contains basic Python programs focused on conditions, numbers, strings, loops, and basic problem-solving practice.
 
