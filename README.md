@@ -1,4 +1,3 @@
-````markdown
 # QSpider Placement Training – Semester 3 & Semester 4
 
 A complete collection of programs, practice work, assignments, notes, and learning materials completed during my **QSpider Placement Training** across **Semester 3 and Semester 4**.
