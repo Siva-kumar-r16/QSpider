@@ -1,0 +1,23 @@
+# QSpider – `src/pattern`
+
+This folder contains the QSpider class/practice files stored under `src/pattern`.
+
+## Files in This Folder
+
+- 📄 `Pateern2.java`
+- 📄 `Pattern1.java`
+- 📄 `Pattern3.java`
+- 📄 `Pattern4.java`
+- 📄 `Pattern5.java`
+
+## Folder Purpose
+
+The files in this folder are kept as part of the QSpider placement-training practice collection.
+
+## Revision
+
+Use the source files in this folder to revise the programs and concepts practiced in this section.
+
+## Note
+
+This README describes the folder structure and files without changing the original source programs.
