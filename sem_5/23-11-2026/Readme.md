@@ -1,4 +1,4 @@
-# Java Class Notes
+# Q-Spider Java Class Notes
 
 **Date:** 23 November 2026\
 **Package used in examples:** `org.sem_5.day1`
